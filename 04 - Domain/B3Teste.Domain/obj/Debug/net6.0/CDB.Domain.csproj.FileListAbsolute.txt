@@ -1,0 +1,12 @@
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\04 - Domain\B3Teste.Domain\bin\Debug\net6.0\CDB.Domain.deps.json
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\04 - Domain\B3Teste.Domain\bin\Debug\net6.0\CDB.Domain.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\04 - Domain\B3Teste.Domain\bin\Debug\net6.0\CDB.Domain.pdb
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\04 - Domain\B3Teste.Domain\obj\Debug\net6.0\CDB.Domain.csproj.AssemblyReference.cache
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\04 - Domain\B3Teste.Domain\obj\Debug\net6.0\CDB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\04 - Domain\B3Teste.Domain\obj\Debug\net6.0\CDB.Domain.AssemblyInfoInputs.cache
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\04 - Domain\B3Teste.Domain\obj\Debug\net6.0\CDB.Domain.AssemblyInfo.cs
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\04 - Domain\B3Teste.Domain\obj\Debug\net6.0\CDB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\04 - Domain\B3Teste.Domain\obj\Debug\net6.0\CDB.Domain.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\04 - Domain\B3Teste.Domain\obj\Debug\net6.0\refint\CDB.Domain.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\04 - Domain\B3Teste.Domain\obj\Debug\net6.0\CDB.Domain.pdb
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\04 - Domain\B3Teste.Domain\obj\Debug\net6.0\ref\CDB.Domain.dll

@@ -1,0 +1,145 @@
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\B3Teste.API.exe
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\B3Teste.API.deps.json
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\B3Teste.API.runtimeconfig.json
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\B3Teste.API.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\B3Teste.API.pdb
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\B3Teste.Application.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\B3Teste.Domain.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\B3Teste.Application.pdb
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\bin\Debug\net6.0\B3Teste.Domain.pdb
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\obj\Debug\net6.0\B3Teste.API.csproj.AssemblyReference.cache
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\obj\Debug\net6.0\B3Teste.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\obj\Debug\net6.0\B3Teste.API.AssemblyInfoInputs.cache
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\obj\Debug\net6.0\B3Teste.API.AssemblyInfo.cs
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\obj\Debug\net6.0\B3Teste.API.csproj.CoreCompileInputs.cache
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\obj\Debug\net6.0\B3Teste.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\obj\Debug\net6.0\B3Teste.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\obj\Debug\net6.0\scopedcss\bundle\B3Teste.API.styles.css
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\obj\Debug\net6.0\B3Teste.API.csproj.CopyComplete
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\obj\Debug\net6.0\B3Teste.API.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\obj\Debug\net6.0\refint\B3Teste.API.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\obj\Debug\net6.0\B3Teste.API.pdb
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\obj\Debug\net6.0\B3Teste.API.genruntimeconfig.cache
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.API\obj\Debug\net6.0\ref\B3Teste.API.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.API.exe
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.API.deps.json
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.API.runtimeconfig.json
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.API.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.API.pdb
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.Application.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.Domain.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.Application.pdb
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.Domain.pdb
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.csproj.AssemblyReference.cache
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.AssemblyInfoInputs.cache
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.AssemblyInfo.cs
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.csproj.CoreCompileInputs.cache
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\obj\Debug\net6.0\scopedcss\bundle\B3Teste.API.styles.css
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.csproj.CopyComplete
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\obj\Debug\net6.0\refint\B3Teste.API.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.pdb
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.genruntimeconfig.cache
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\02 - Service\B3Teste.API\obj\Debug\net6.0\ref\B3Teste.API.dll
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\appsettings.json
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.API.exe
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.API.deps.json
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.API.runtimeconfig.json
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.API.dll
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.API.pdb
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\AutoMapper.dll
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\FluentValidation.dll
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.Application.dll
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.Domain.dll
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.Application.pdb
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.Domain.pdb
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.csproj.AssemblyReference.cache
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.AssemblyInfoInputs.cache
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.AssemblyInfo.cs
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.csproj.CoreCompileInputs.cache
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\scopedcss\bundle\B3Teste.API.styles.css
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.csproj.CopyComplete
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.dll
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\refint\B3Teste.API.dll
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.pdb
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.genruntimeconfig.cache
+E:\Projetos\B3\Teste\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\ref\B3Teste.API.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\appsettings.json
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.API.exe
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.API.deps.json
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.API.runtimeconfig.json
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.API.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.API.pdb
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.Application.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.Domain.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.Application.pdb
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\bin\Debug\net6.0\B3Teste.Domain.pdb
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.csproj.AssemblyReference.cache
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.AssemblyInfoInputs.cache
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.AssemblyInfo.cs
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.csproj.CoreCompileInputs.cache
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\staticwebassets\msbuild.B3Teste.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\staticwebassets\msbuild.build.B3Teste.API.props
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.B3Teste.API.props
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.B3Teste.API.props
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\scopedcss\bundle\B3Teste.API.styles.css
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.csproj.CopyComplete
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\refint\B3Teste.API.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.pdb
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\B3Teste.API.genruntimeconfig.cache
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\02 - Service\B3Teste.API\obj\Debug\net6.0\ref\B3Teste.API.dll

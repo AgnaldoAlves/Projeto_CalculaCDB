@@ -1,0 +1,60 @@
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.Application\bin\Debug\net6.0\B3Teste.Application.deps.json
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.Application\bin\Debug\net6.0\B3Teste.Application.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.Application\bin\Debug\net6.0\B3Teste.Application.pdb
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.Application\bin\Debug\net6.0\B3Teste.Domain.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.Application\bin\Debug\net6.0\B3Teste.Domain.pdb
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.csproj.AssemblyReference.cache
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.AssemblyInfoInputs.cache
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.AssemblyInfo.cs
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.csproj.CoreCompileInputs.cache
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.csproj.CopyComplete
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.Application\obj\Debug\net6.0\refint\B3Teste.Application.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.pdb
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\B3Teste.Application\obj\Debug\net6.0\ref\B3Teste.Application.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\03 - Application\B3Teste.Application\bin\Debug\net6.0\B3Teste.Application.deps.json
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\03 - Application\B3Teste.Application\bin\Debug\net6.0\B3Teste.Application.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\03 - Application\B3Teste.Application\bin\Debug\net6.0\B3Teste.Application.pdb
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\03 - Application\B3Teste.Application\bin\Debug\net6.0\B3Teste.Domain.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\03 - Application\B3Teste.Application\bin\Debug\net6.0\B3Teste.Domain.pdb
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.csproj.AssemblyReference.cache
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.AssemblyInfoInputs.cache
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.AssemblyInfo.cs
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.csproj.CoreCompileInputs.cache
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.csproj.CopyComplete
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\03 - Application\B3Teste.Application\obj\Debug\net6.0\refint\B3Teste.Application.dll
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.pdb
+C:\Users\Leo-Note\Desktop\B3Teste-Leonardo\03 - Application\B3Teste.Application\obj\Debug\net6.0\ref\B3Teste.Application.dll
+E:\Projetos\B3\Teste\TesteB3\03 - Application\B3Teste.Application\bin\Debug\net6.0\B3Teste.Application.deps.json
+E:\Projetos\B3\Teste\TesteB3\03 - Application\B3Teste.Application\bin\Debug\net6.0\B3Teste.Application.dll
+E:\Projetos\B3\Teste\TesteB3\03 - Application\B3Teste.Application\bin\Debug\net6.0\B3Teste.Application.pdb
+E:\Projetos\B3\Teste\TesteB3\03 - Application\B3Teste.Application\bin\Debug\net6.0\B3Teste.Domain.dll
+E:\Projetos\B3\Teste\TesteB3\03 - Application\B3Teste.Application\bin\Debug\net6.0\B3Teste.Domain.pdb
+E:\Projetos\B3\Teste\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.csproj.AssemblyReference.cache
+E:\Projetos\B3\Teste\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\B3\Teste\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.AssemblyInfoInputs.cache
+E:\Projetos\B3\Teste\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.AssemblyInfo.cs
+E:\Projetos\B3\Teste\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.csproj.CoreCompileInputs.cache
+E:\Projetos\B3\Teste\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.csproj.CopyComplete
+E:\Projetos\B3\Teste\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.dll
+E:\Projetos\B3\Teste\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\refint\B3Teste.Application.dll
+E:\Projetos\B3\Teste\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.pdb
+E:\Projetos\B3\Teste\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\ref\B3Teste.Application.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\bin\Debug\net6.0\B3Teste.Application.deps.json
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\bin\Debug\net6.0\B3Teste.Application.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\bin\Debug\net6.0\B3Teste.Application.pdb
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\bin\Debug\net6.0\B3Teste.Domain.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\bin\Debug\net6.0\B3Teste.Domain.pdb
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.csproj.AssemblyReference.cache
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.AssemblyInfoInputs.cache
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.AssemblyInfo.cs
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.csproj.CoreCompileInputs.cache
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.csproj.CopyComplete
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\refint\B3Teste.Application.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\B3Teste.Application.pdb
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\ref\B3Teste.Application.dll

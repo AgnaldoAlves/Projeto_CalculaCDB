@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "phLp62d76KHWtTfOF57Y+hI2kboulFZ6R5YqrPMiZ6eqnv3XVSDUQn6wkwp1h/I5ZDRWNoEVr5CJOA9tU/6fhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agnal\\OneDrive\\Documentos\\ProjetoB3\\TesteB3\\03 - Application\\B3Teste.Application\\CDB.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agnal\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\agnal\\.nuget\\packages\\fluentvalidation\\11.5.0\\fluentvalidation.11.5.0.nupkg.sha512",
+    "C:\\Users\\agnal\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

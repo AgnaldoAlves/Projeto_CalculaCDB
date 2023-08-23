@@ -1,0 +1,15 @@
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\bin\Debug\net6.0\CDB.Application.deps.json
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\bin\Debug\net6.0\CDB.Application.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\bin\Debug\net6.0\CDB.Application.pdb
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\bin\Debug\net6.0\CDB.Domain.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\bin\Debug\net6.0\CDB.Domain.pdb
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\CDB.Application.csproj.AssemblyReference.cache
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\CDB.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\CDB.Application.AssemblyInfoInputs.cache
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\CDB.Application.AssemblyInfo.cs
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\CDB.Application.csproj.CoreCompileInputs.cache
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\CDB.Application.csproj.CopyComplete
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\CDB.Application.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\refint\CDB.Application.dll
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\CDB.Application.pdb
+C:\Users\agnal\OneDrive\Documentos\ProjetoB3\TesteB3\03 - Application\B3Teste.Application\obj\Debug\net6.0\ref\CDB.Application.dll
