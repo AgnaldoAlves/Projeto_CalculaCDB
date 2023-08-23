@@ -30,9 +30,11 @@ npm install -g @angular/cli
 npm update
 
 executar o comando abaixo para atualizar a pasta node_modules
+
 npm install   
 
 rodar o projeto
+
 ng serve -o
 
 
